@@ -10,5 +10,5 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd StStephenWalbrookInterior031.jpg
+map_Kd https://github.com/productospremium2023/Altar/blob/main/StStephenWalbrookInterior031.jpg
 Ni 1.00
